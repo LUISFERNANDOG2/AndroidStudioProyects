@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ventanas</string>
+    <string name="menu_option_alta">Alta</string>
+    <string name="menu_option_baja">Baja</string>
+    <string name="menu_option_cambio">Cambio</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_email">Email</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_clear">Limpiar</string>
+</resources>
